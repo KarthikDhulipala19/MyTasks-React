@@ -4,6 +4,21 @@ A clean and user-friendly **Task Management Application** built using **React** 
 
 ---
 
+
+## 📸 Screenshots
+
+### Task Management Application UI
+
+![Task Manager UI](
+https://github.com/KarthikDhulipala19/MyTasks-React/blob/main/app.png?raw=true
+)
+
+<br/>
+
+![Task Manager UI](
+https://github.com/KarthikDhulipala19/MyTasks-React/blob/main/app3.png?raw=true
+)
+
 ## 🔗 Live Demo
 
    <br/>

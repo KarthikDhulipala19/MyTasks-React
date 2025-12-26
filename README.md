@@ -6,11 +6,12 @@ A clean and user-friendly **Task Management Application** built using **React** 
 
 ## 🔗 Live Demo
 
-
+   <br/>
    <h1>Below is the app link to start your day with task manager</h1>
+   <br/>
   👉 <a href='https://mytaskmanagers.ccbp.tech/' target="_blank">Create-Your-Own-Tasks</a>
-
-
+  <br/>
+  <br/>
 
 ---
 

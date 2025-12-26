@@ -112,17 +112,6 @@ npm install
 npm start
 ```
 
----
-
-## 📈 Future Enhancements
-
-* Edit task functionality
-* Clear all tasks option
-* Confirmation modal for delete
-* Convert to React Hooks
-* Mobile responsiveness improvements
-
----
 
 ## 📄 License
 
